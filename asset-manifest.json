@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/React-Projects-CardServices/static/css/main.61d90b52.chunk.css",
+    "main.js": "/React-Projects-CardServices/static/js/main.13091e88.chunk.js",
+    "main.js.map": "/React-Projects-CardServices/static/js/main.13091e88.chunk.js.map",
+    "runtime-main.js": "/React-Projects-CardServices/static/js/runtime-main.59a8454e.js",
+    "runtime-main.js.map": "/React-Projects-CardServices/static/js/runtime-main.59a8454e.js.map",
+    "static/js/2.66a2d3df.chunk.js": "/React-Projects-CardServices/static/js/2.66a2d3df.chunk.js",
+    "static/js/2.66a2d3df.chunk.js.map": "/React-Projects-CardServices/static/js/2.66a2d3df.chunk.js.map",
+    "static/js/3.55a9b533.chunk.js": "/React-Projects-CardServices/static/js/3.55a9b533.chunk.js",
+    "static/js/3.55a9b533.chunk.js.map": "/React-Projects-CardServices/static/js/3.55a9b533.chunk.js.map",
+    "index.html": "/React-Projects-CardServices/index.html",
+    "static/css/main.61d90b52.chunk.css.map": "/React-Projects-CardServices/static/css/main.61d90b52.chunk.css.map",
+    "static/js/2.66a2d3df.chunk.js.LICENSE.txt": "/React-Projects-CardServices/static/js/2.66a2d3df.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.59a8454e.js",
+    "static/js/2.66a2d3df.chunk.js",
+    "static/css/main.61d90b52.chunk.css",
+    "static/js/main.13091e88.chunk.js"
+  ]
+}
